@@ -1,9 +1,9 @@
 export default {
     'basics': {
         'position': 'Web 后端工程师',
-        'name': '李倾城',
+        'name': 'lzq',
         'gender': '男',
-        'age': '28',
+        'age': '26',
         'worklife': '3',
         'label': '我是一个小胖子，没事就摸肚子',
         'picture': 'http://www.lgstatic.com/i/image/M00/A1/9D/CgqKkVioBICAXXVyAABFXV8M2hw21.jpeg',
